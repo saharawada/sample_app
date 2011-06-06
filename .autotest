@@ -1,2 +1,1 @@
 require 'autotest/growl'
-bundle exec rspec spec/
